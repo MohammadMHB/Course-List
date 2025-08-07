@@ -1,1 +1,1 @@
-You can see the Demo: mycourseslist.netlify.app
+You can see the Demo: https://mycourseslist.netlify.app

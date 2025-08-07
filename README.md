@@ -1,2 +1,1 @@
-You can see the Demo 👇
-![Preview](./public/images/Demo.png)
+You can see the Demo: [mycourseslist.netlify.app](url)
